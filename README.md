@@ -1,6 +1,6 @@
 # 👋 Hello and Welcome!
 
-Hey there! Welcome to my GitHub profile! 👋 , I am Charan Lanka. I am currently diving deep into the world of **Generative AI** and building impactful **AI Applications**. I am driven by the endless possibilities AI offers to solve real-world problems, create innovative solutions, and empower people through intelligent systems. This repository showcases my journey, projects, and learning experiences across various domains in Artificial Intelligence.
+Hey there! Welcome to my GitHub profile! 👋 . I am Charan Lanka, I am currently diving deep into the world of **Generative AI** and building impactful **AI Applications**. I am driven by the endless possibilities AI offers to solve real-world problems, create innovative solutions, and empower people through intelligent systems. This repository showcases my journey, projects, and learning experiences across various domains in Artificial Intelligence.
 
 ---
 
