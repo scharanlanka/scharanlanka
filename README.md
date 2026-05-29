@@ -1,6 +1,6 @@
 # Sai Charan Lanka
 
-**AI Engineer** — AI Agents, Multi-Agent Systems, RAG Pipelines
+**AI Engineer** - AI Agents, Multi-Agent Systems, RAG Pipelines
 
 Building production LLM applications with LangChain, LangGraph, and vector databases over structured and unstructured enterprise data. Currently architecting multi-agent workflows and multimodal RAG systems serving 10,000+ users at Texas Tech University.
 
